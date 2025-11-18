@@ -24,6 +24,7 @@
           packages = with pkgs; [
             cosign
             google-cloud-sdk
+            pnpm
             unzip
             zip
           ];
