@@ -2,7 +2,7 @@
   "name": "aidr-apigee",
   "version": "0.0.0-development",
   "private": true,
-  "packageManager": "pnpm@10.16.1",
+  "packageManager": "pnpm@10.30.3",
   "scripts": {
     "lint": "biome check aidr-guard"
   },
